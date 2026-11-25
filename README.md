@@ -14,4 +14,4 @@
 ## Q2
 * FA1 <https://github.com/monohexa/cs3-activity/blob/main/q2/fa1_arayat_caleon.py>
 * FA2 <https://github.com/monohexa/cs3-activity/blob/main/q2/fa2_arayat_caleon.py>
-* FA3 <https://github.com/monohexa/cs3-activity/blob/main/q2/FA1_Arayat_Caleon.py>
+* FA3 <https://github.com/monohexa/cs3-activity/blob/main/q2/FA3_Arayat_Caleon.py>
